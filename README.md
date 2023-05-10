@@ -1,5 +1,8 @@
 # Smiley: Intro to OOP and IoT 
 
+#### pi-17.local
+#### Pi.314
+
 Demonstrates key Python OOP concepts and provides the first project's starting code.
 
 The project presents various smiley faces that appear on the SenseHAT LED matrix. 
