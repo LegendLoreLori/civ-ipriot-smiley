@@ -1,6 +1,5 @@
 import time
 from smiley import Smiley
-# from blinkable import Blinkable
 
 class Sad(Smiley):
     def __init__(self):

@@ -41,3 +41,9 @@ class Smiley:
         Show the smiley on the screen.
         """
         self.sense_hat.set_pixels(self.pixels)
+
+    def blank(self):
+        """
+        Remove the smiley from the screen.
+        """
+        self.sense_hat.set_pixels([self.BLANK] * 64)
